@@ -22,7 +22,14 @@ h2 {
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-
 }
-p{font-family:  "Gaegu";
-font-size: x-large;}
+
+h3 {
+    font-family:  "Itim";
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+p {font-family:  "Gaegu";
+    font-size: x-large;}
