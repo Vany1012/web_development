@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 2cm;
     background-color:#768a4f;
     font-family: sans-serif;
     text-align: center;
@@ -9,7 +9,7 @@ h1 {
     background-color: #4d6a5a;
     color: white;
     text-align : center;
-    font-family:  "Borel";;
+    font-family:  "Borel";
     font-weight: 400;
     font-style: normal;
       
@@ -18,7 +18,7 @@ h1 {
 
 h2 {
     color:#280813;
-    font-family:  "Itim";;
+    font-family:  "Itim";
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
