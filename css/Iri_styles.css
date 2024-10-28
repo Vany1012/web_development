@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 2cm;
     background-color:#768a4f;
     font-family: sans-serif;
     text-align: center;
@@ -24,4 +24,5 @@ h2 {
     font-style: normal;
 }
 
-p{font-family:  "Hachi Maru Pop";}
+p{font-family:  "Gaegu";
+    font-size: x-large;}
