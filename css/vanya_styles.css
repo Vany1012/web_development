@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin:2cm;
     background-color:#7be3ff ;
     font-family: sans-serif;
     text-align: center;
@@ -9,7 +9,7 @@ h1 {
     background-color: #0f00ff;
     color:#fefefe;
     text-align : center;
-    font-family:  "Bebas Neue", sans-serif;
+    font-family:  "Borel";
     font-weight: 400;
     font-style: normal;
       
@@ -18,10 +18,11 @@ h1 {
 
 h2 {
     color: #0f00ff;
-
-    font-family: "Arima", system-ui;
+    font-family:  "Itim";
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
 
 }
+p{font-family:  "Gaegu";
+font-size: x-large;}
