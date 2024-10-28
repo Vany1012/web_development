@@ -1,3 +1,16 @@
-body{
-    margin:0;
+body {
+    margin: 0;
+    background-color:#fef0fc ;
+    font-family: sans-serif;
+    text-align: center;
+    }
+
+h1 {
+    background-color: #fbd1f5;
+    color: #a311e4;
+    text-align : center;
+    font-family:  "Borel";
+    font-weight: 400;
+    font-style: normal;
 }
+li {font-family:  "Itim";}
